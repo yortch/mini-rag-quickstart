@@ -1,8 +1,8 @@
 #!/bin/sh
 
-export AOAI_KEY=""
-export AOAI_ENDPOINT=""
-export MyAccount_COSMOSDB=""
+export AOAI_KEY="<replace>"
+export AOAI_ENDPOINT="https://jb-aoai-teams.openai.azure.com/"
+export MyAccount_COSMOSDB="AccountEndpoint=<replace>"
 export MODEL="gpt35"
 
 

@@ -1,8 +1,10 @@
 #!/bin/bash
 
-export RG=aoai-rag                    # The name of the resource group for the quick start
-export COSMOS_ACCT=nvmaoaidb          # The name of the Cosmos account
-export AOAI_APP=nvmaoai-teams         # The name of the function app
+#export RG=aoai-rag                    # The name of the resource group for the quick start
+#export COSMOS_ACCT=nvmaoaidb          # The name of the Cosmos account
+#export AOAI_APP=nvmaoai-teams         # The name of the function app
+export RG=jbalderas-mini-rag-rg 
+export COSMOS_ACCT=jb-aoai-cosmos-serverless
 
 ## DO NOT CHANGE THE VALUES BELOW
 export COSMOS_DB=aoaidb               

@@ -4,3 +4,11 @@
 
 azure-functions
 openai
+azure-search-documents
+azure.identity
+llama-index
+llama-index-vector-stores-azureaisearch
+llama-index-embeddings-azure-openai
+llama-index-llms-azure-openai
+llama-index-readers-azstorage_blob
+azure.identity

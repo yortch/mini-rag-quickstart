@@ -34,7 +34,7 @@ def insert_item(container, fact):
         "fact": fact
     }
 
-    #print(f"Inserting item {item_body}")
+    print(f"Inserting item {item_body}")
     container.upsert_item(body=item_body)
 
 fopen = open('data/cosmosdb-facts.txt', 'r')
